@@ -1,4 +1,4 @@
-# Learning React ![favicon-3](https://github.com/shivlloyd/Learning_React/assets/41133545/4d2c323b-9ef8-4d2b-9735-ebceb0acb063)
+# Learning React ![1174949_js_react js_logo_react_react native_icon](https://github.com/shivlloyd/Learning_React/assets/41133545/a27d1494-0ff4-4103-b883-0a6665cb70b6)
 
 
 Welcome to my React learning journey repository! 👋
