@@ -1,6 +1,9 @@
+import Chai from "./Chai";
+
 function App() {
   return (
-    <div>
+    <>
+      <Chai />
       <h1>Chai aur React | Shivam Kumar</h1>
       <p>
         Hello everyone! I'm currently diving into React through the "Chai aur
@@ -19,7 +22,7 @@ function App() {
         the essential Node modules using `npm install`, thereby ensuring a
         leaner React project.
       </p>
-    </div>
+    </>
   );
 }
 
