@@ -6,7 +6,7 @@ export default function Card() {
       <a href="/">
         <img
           className="p-8 rounded-t-lg"
-          src="https://images.pexels.com/photos/18264716/pexels-photo-18264716/free-photo-of-man-people-laptop-internet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/FKMY3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1647901077187"
           alt="product_image1"
         />
       </a>
